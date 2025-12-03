@@ -1,9 +1,9 @@
-I'm a software developer with 25 years of experience but still learning 😃. I started my career with C, Visual Basic, and Perl. I self-taught myself Java and then migrated to Spring, JavaScript, ReactJS, Angular, VueJS, Ruby, Groovy, ExtJS and even Electron. I've had the satisfaction of working for both large companies and startups. Now I focus on JavaScript, React, Vue, Node, Java, Electron and GoLang sharing my enthusiasm with others, mentoring, and solving business problems.
+I'm a software developer with 25 years of experience but still learning 😃. I started my career with C, Visual Basic, and Perl. I self-taught myself Java and then migrated to Spring, JavaScript, ReactJS, Angular, VueJS, Ruby, Groovy, ExtJS, Go, Elixar, GoDot and even Electron. I've had the satisfaction of working for both large companies and startups. Now I focus on JavaScript, React, Vue, Node, Java, Electron and GoLang sharing my enthusiasm with others, mentoring, and solving business problems.
 
 - 🔭  I’m currently an independent contractor on several projects in *NodeJs*, *Java*, *React*, *VueJS*, *AWS*, *Azure*, *Electron* and *Apigee*
 - 🌱  I’m an avid learner and actively engaged in several classes at PluralSight. I'm focused on expanding my knowledge of *Scala*, *AI*, and *Spark*.
 - 🎓  Getting ready for my AWS Certified Developer - Associate Certification 
-- 👯  I’m looking to collaborate on *NodeJs* and *ReactJs* 
+- 👯  I’m looking to collaborate on *NodeJs*, *Elixar*, *Go*, and *ReactJs* 
 
 ### Connect with me
 
